@@ -166,16 +166,14 @@ goto Login
 :About
 color 6
 title Tentang
-echo Tentang alat :
-echo Dibuat oleh Restananda Wahyu Namaprila
-echo Facebook                   : Restananda
-echo Instagram                  : @restanandax
-echo Kunjungi situsnya          : http://the-resta.blogspot.com
-echo Email                      : restananda0905@gmail.com
-echo WhatsApp                   : 081390947252
+echo Pembuat Script             : Kita Semua
+echo Instagram                  : @Heoix.id
+echo Facebook                   : Numpang Temen
+echo Kunjungi situsnya          : Kena Suspend
+echo Email                      : Heoix.id@gmail.com
 echo Dibuat pada tanggal 01 Desember 2019 18:22
-echo Diupdate pada tanggal 19 Oktober 2020 19:35
-echo Copyrights (c) Resta Project
+echo Diupdate pada tanggal 05 Juni 2021 10:31
+echo Copyrights (c) Dari Kalian Untuk Semua Orang
 echo -----------------------------------------------------------------
 pause
 goto Login
