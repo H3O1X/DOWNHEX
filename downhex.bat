@@ -47,7 +47,7 @@ echo 4) Hack Wifi
 echo 5) Memulai program lain
 echo 6) DDoS Attack
 echo 7) Tes ping server
-echo 9) Keluar
+echo 8) Keluar
 echo Alat ini masih dalam pengembangan
 echo ------------------------------------------------
 set /p tugas=Masukkan Tugas : 
@@ -111,8 +111,8 @@ goto Wifix
 color 0a
 title ---Hack Wifi By Resta---
 netsh wlan show profiles
-set /p namas=Masukkan nama wifi (berlaku tanpa spasi) :
-netsh wlan show profiles %namas% key=clear
+set /p namas=Masukkan nama wifi:
+netsh wlan show profiles "%namas%" key=clear
 echo Password berada pada key content!
 pause
 goto Login
